@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MedOrganization.Library\obj\Debug\MedOrganization.Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MedOrganization.Library\obj\Debug\MedOrganization.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MedOrganization.Library\bin\Debug\MedOrganization.Library.dll
+C:\Users\User\source\repos\MedOrganization.Library\bin\Debug\MedOrganization.Library.pdb
+C:\Users\User\source\repos\MedOrganization.Library\obj\Debug\MedOrganization.Library.dll
+C:\Users\User\source\repos\MedOrganization.Library\obj\Debug\MedOrganization.Library.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MedOrganization\bin\Debug\MedOrganization.exe.config
+C:\Users\User\source\repos\MedOrganization\bin\Debug\MedOrganization.exe
+C:\Users\User\source\repos\MedOrganization\bin\Debug\MedOrganization.pdb
+C:\Users\User\source\repos\MedOrganization\bin\Debug\MedOrganization.Library.dll
+C:\Users\User\source\repos\MedOrganization\bin\Debug\MedOrganization.Library.pdb
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.csproj.CopyComplete
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.exe
+C:\Users\User\source\repos\MedOrganization\obj\Debug\MedOrganization.pdb
